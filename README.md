@@ -1,2 +1,2 @@
 # full_stack_javascript
-Treehouse Tech Degree
+Working through the Team Treehouse tech degree in my free time.
